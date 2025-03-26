@@ -1,4 +1,4 @@
-# COMM4190 Spring 2024 - Research Project
+# COMM4190 Spring 2025 - Research Project
 
 * Use this repository for your Research Project
 
