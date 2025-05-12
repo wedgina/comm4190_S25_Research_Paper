@@ -6,8 +6,12 @@ The focus of this project is to examine how the practibility of artificial intel
 
 I use AI, primarily ChatGPT and assess it in this instance using a variety of scenarios, an incoming freshman trying to choose their classes for the first time, a student trying to pick a major, a student struggling with imposter syndrome, and lastly an upcoming graduate who is trying to determine whether they are on track to graduate. A lot of these scenarios ecompass the lens of someone who is a first generation college student, to also observe how Chat would be accommodating and would interact with the students from the scenarios, given this challenge. 
 
-### Method
-
+- [Introduction](Research_Project.ipynb)
+Scenarios:
+- [Scenario 1: Incoming Freshman](Scenario_1.ipynb)
+- [Scenario 2: Major Declaration Help](Scenario_2.ipynb)
+- [Scenario 3: Help With Imposter Syndrome](Scenario_3.ipynb)
+- [Scenario 4: Degree Progress Check-in](Scenario_4.ipynb)
 
 ---
 
